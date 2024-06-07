@@ -1,1 +1,3 @@
-# Suicidal-Ideation-Detection
+# Suicidal-Ideation-Detection-Using NLP, Machine, and Deep Learning 
+
+This project focuses on fine-grained emotion detection in suicidal tweets using machine learning classifiers such as Random Forest, Support Vector Classifier (SVC), Stochastic Gradient Descent (SGD) Classifier, Logistic Regression, Multinomial Naïve Bayes, and Complement Naïve Bayes. To distinguish between suicidal and non-suicidal text notes, lexical and semantic features are employed, including bags-of-words of lemmas, part-of-speech tags, and unigrams. Additionally, external resources encoding semantic relatedness and subjectivity information are utilized to enhance the classification process. The goal is to develop a robust methodology for accurately detecting emotions in tweets related to suicide.
